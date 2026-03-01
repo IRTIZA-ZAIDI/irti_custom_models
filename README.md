@@ -1,5 +1,9 @@
 # irti_custom_models
 
+## Read Blog at: 
+https://irtiza-zaidi.vercel.app/blog/Autoencoder-custom-model-architecture
+
+
 ## Overview
 
 `irti_custom_models` provides a Hugging Face-compatible model wrapper for masked sequence modeling with classification-style outputs.
